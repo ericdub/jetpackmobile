@@ -32,18 +32,19 @@ a.readmore {
 }
 
 .mobile-theme .menu-search, .mobile-theme #access, .mobile-theme #access .menu-label {
-	background-color: #a83b00;
+	background-color: #E5B366;
 }
 
 .mobile-theme .main-small-navigation .menu {
-	background-color: #a83b00;
-	border: 1px solid #e9e9e9;
+	background-color: #E5B366;
+	border: 1px solid #E5B366;
 	position: absolute;
 	width: 100%;
 }
 
 .mobile-theme #access {
-	background-color: #a83b00;
+	background-color: #E5B366;
+	border: 0;
 }
 
 .mobile-theme .search-form #s {
@@ -52,8 +53,7 @@ a.readmore {
 
 .mobile-theme #access ul.nav-menu a {
 	color: #a83b00;
-}	
-
+}
 
 .mobile-theme .comments-link a {
 	color: #a83b00;
@@ -62,4 +62,13 @@ a.readmore {
 .mobile-theme .nav-previous a,
 .mobile-theme .nav-next a {
 	color: #FFF;
+	background: #E5B366;
+}
+
+.mobile-theme .entry-title, .entry-title a {
+	color: #3A0D25;
+}
+
+.mobile-theme #site-title, #site-title a {
+	color: #3A0D25;
 }
