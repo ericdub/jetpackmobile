@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+#content ul a, #content ol a {
+	color: #777777;
+}
+
+ul.default-wp-page li a:hover {
+	background-color: #c44e00;
+	background: #c44e00;
+	border: 1px solid #833400;
+	border-radius: 3px 3px 3px 3px;
+	color: #FFF;
+	display: inline-block;
+	padding: 1px 8px 2px;
+}
+
+.readmore {
+	background-color: #c44e00;
+	background: #c44e00;
+	border: 1px solid #833400;
+	border-radius: 3px 3px 3px 3px;
+}
+
+a.readmore {
+	background: none repeat scroll 0 0 #c44e00;
+	border: 1px solid #833400;
+	border-radius: 3px 3px 3px 3px;
+	color: #FFFFFF;
+	display: inline-block;
+	float: right;
+	padding: 1px 8px 2px;
+}
+
+.mobile-theme .menu-search, .mobile-theme #access, .mobile-theme #access .menu-label {
+	background-color: #a83b00;
+}
+
+.mobile-theme .main-small-navigation .menu {
+	background-color: #a83b00;
+	border: 1px solid #e9e9e9;
+	position: absolute;
+	width: 100%;
+}
+
+.mobile-theme #access {
+	background-color: #a83b00;
+}
+
+.mobile-theme .search-form #s {
+	background-color: #404040;
+}
+
+.mobile-theme #access ul.nav-menu a {
+	color: #a83b00;
+}	
+
+
+.mobile-theme .comments-link a {
+	color: #a83b00;
+}
+
+.mobile-theme .nav-previous a,
+.mobile-theme .nav-next a {
+	color: #FFF;
+}
